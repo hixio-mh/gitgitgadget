@@ -41,7 +41,7 @@
     "@types/jsonwebtoken": "^8.5.5",
     "@types/libqp": "^1.1.1",
     "@types/marked": "^2.0.4",
-    "@types/nodemailer": "^6.4.4",
+    "@types/nodemailer": "^6.4.5",
     "@types/rfc2047": "^2.0.1",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "@typescript-eslint/parser": "^4.29.2",
@@ -67,7 +67,7 @@
     "jsonwebtoken": "^8.5.1",
     "libqp": "^1.1.0",
     "marked": "^3.0.0",
-    "nodemailer": "^6.6.3",
+    "nodemailer": "^6.7.8",
     "rfc2047": "^3.0.1"
   },
   "engines": {
